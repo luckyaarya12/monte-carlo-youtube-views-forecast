@@ -68,7 +68,7 @@ This project uses **Monte Carlo simulation** to estimate the expected range and 
 ## Files Included
 - `youtube_views_60days.xlsx` – Historical dataset  
 - `monte_carlo_youtube_views.py` – Python code for simulation  
-- `Monte_Carlo_Forecast_Average_Daily_Views.png` – Forecast histogram  
-- `Sample_Monte_Carlo_Simulation_Runs.png` – Sample simulation runs  
+- `Monte Carlo Forecast – Average Daily Views (Next 30 Days).png` – Forecast histogram  
+- `Sample Monte Carlo Simulation Runs.png` – Sample simulation runs  
 - `.gitignore` – Python ignore file
 
